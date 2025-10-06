@@ -41,7 +41,7 @@ My technical and theoretical expertise spans the following domains:
 |  **In Progress** | CISSP |
 |  **In Progress** | CompTIA Security+ (SY0-701) |
 |  **Palo Alto Networks Cybersecurity Foundation ** |
-|  **Palo Alto Networks Security Operations Fundamentals ** |
+|  **Palo Alto Networks Security Operations Fundamentals |
 |  **Prisma Access SASE Security: Design and Operation ** |
 |  ** (Palo Alto Cybersecurity Academy) ** |
 |  **Palo Alto Networks Cloud Security Fundamentals ** |
