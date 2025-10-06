@@ -34,33 +34,32 @@ My technical and theoretical expertise spans the following domains:
 
 ### Certifications
 
-| Status | Certification |
 | :--- | :--- |
 |  AWS Certified ML – Specialty |
-|  **Completed** | Azure AI Engineer Associate |
-|  **In Progress** | CISSP |
-|  **In Progress** | CompTIA Security+ (SY0-701) |
-|  **Palo Alto Networks Cybersecurity Foundation ** |
-|  **Palo Alto Networks Security Operations Fundamentals |
-|  **Prisma Access SASE Security: Design and Operation ** |
-|  ** (Palo Alto Cybersecurity Academy) ** |
-|  **Palo Alto Networks Cloud Security Fundamentals ** |
-|  **SOAR and XDR Tools for Cyber Attack Response ** |
-|  **Introduction to Troubleshooting with Palo Alto Firewalls ** |
-|  **Palo Alto Firewalls 10.x - Install, Configure & Manage ** |
-|  **CompTIA Security+ ** |
-|  **Windows Server Administration ** |
-|  ** Linux Redhat Certified System Administration ** |
-|  **Certified Ethical Hacker (CEH 11, EC-Council) ** |
-|  **Cybersecurity Threat Hunting for SOC Analysts (Udemy) ** |
-|  **Penetration Testing, Incident Response, and Forensics (IBM) ** |
-|  **Azure Monitor and Microsoft Sentinel ,Coursera ** |
-|  **Microsoft Sentinel Advanced Course: Secure Azure Like a Pro ** |
-|  **Network Analysis: Wireshark, Darktrace ** |
-|  **Endpoint Security: CrowdStrike, Microsoft Defender ** |
-|  **Data Management: SQL, NoSQL, ETL Processes ** |
-|  **Incident Response Certification ** |
-|  **SIEM Tools: Splunk, IBM QRadar ** |
+|  Completed Azure AI Engineer Associate |
+|  In Progress** | CISSP |
+|  In Progress** | CompTIA Security+ (SY0-701) |
+|  Palo Alto Networks Cybersecurity Foundation |
+|  Palo Alto Networks Security Operations Fundamentals |
+|  Prisma Access SASE Security: Design and Operation  |
+|  (Palo Alto Cybersecurity Academy) |
+|  Palo Alto Networks Cloud Security Fundamentals |
+|  SOAR and XDR Tools for Cyber Attack Response  |
+|  Introduction to Troubleshooting with Palo Alto Firewalls  |
+|  Palo Alto Firewalls 10.x - Install, Configure & Manage  |
+|  CompTIA Security+  |
+|  Windows Server Administration  |
+|  Linux Redhat Certified System Administration  |
+|  Certified Ethical Hacker (CEH 11, EC-Council)  |
+|  Cybersecurity Threat Hunting for SOC Analysts (Udemy)  |
+|  Penetration Testing, Incident Response, and Forensics (IBM)  |
+|  Azure Monitor and Microsoft Sentinel ,Coursera |
+|  Microsoft Sentinel Advanced Course: Secure Azure Like a Pro  |
+|  Network Analysis: Wireshark, Darktrace  |
+|  Endpoint Security: CrowdStrike, Microsoft Defender |
+|  Data Management: SQL, NoSQL, ETL Processes  |
+|  Incident Response Certification |
+|  SIEM Tools: Splunk, IBM QRadar |
 
 ---
 
