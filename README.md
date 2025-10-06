@@ -40,27 +40,27 @@ My technical and theoretical expertise spans the following domains:
 |  **Completed** | Azure AI Engineer Associate |
 |  **In Progress** | CISSP |
 |  **In Progress** | CompTIA Security+ (SY0-701) |
-o	Palo Alto Networks Cybersecurity Foundation
-o	Palo Alto Networks Security Operations Fundamentals
-Prisma Access SASE Security: Design and Operation
-o	(Palo Alto Cybersecurity Academy)
-o	Palo Alto Networks Cloud Security Fundamentals
-o	SOAR and XDR Tools for Cyber Attack Response
-o	Introduction to Troubleshooting with Palo Alto Firewalls
-o	Palo Alto Firewalls 10.x - Install, Configure & Manage
-o	CompTIA Security+
-o	 Windows Server Administration
-o	Linux Redhat Certified System Administration
-o	Certified Ethical Hacker (CEH 11, EC-Council)
-o	Cybersecurity Threat Hunting for SOC Analysts (Udemy)
-o	Penetration Testing, Incident Response, and Forensics (IBM)
-o	Azure Monitor and Microsoft Sentinel ,Coursera
-o	Microsoft Sentinel Advanced Course: Secure Azure Like a Pro
-o	Network Analysis: Wireshark, Darktrace
-o	Endpoint Security: CrowdStrike, Microsoft Defender
-o	Data Management: SQL, NoSQL, ETL Processes
-o	 Incident Response Certification
-o	SIEM Tools: Splunk, IBM QRadar
+|  **Palo Alto Networks Cybersecurity Foundation ** |
+|  **Palo Alto Networks Security Operations Fundamentals ** |
+|  **Prisma Access SASE Security: Design and Operation ** |
+|  ** (Palo Alto Cybersecurity Academy) ** |
+|  **Palo Alto Networks Cloud Security Fundamentals ** |
+|  **SOAR and XDR Tools for Cyber Attack Response ** |
+|  **Introduction to Troubleshooting with Palo Alto Firewalls ** |
+|  **Palo Alto Firewalls 10.x - Install, Configure & Manage ** |
+|  **CompTIA Security+ ** |
+|  **Windows Server Administration ** |
+|  ** Linux Redhat Certified System Administration ** |
+|  **Certified Ethical Hacker (CEH 11, EC-Council) ** |
+|  **Cybersecurity Threat Hunting for SOC Analysts (Udemy) ** |
+|  **Penetration Testing, Incident Response, and Forensics (IBM) ** |
+|  **Azure Monitor and Microsoft Sentinel ,Coursera ** |
+|  **Microsoft Sentinel Advanced Course: Secure Azure Like a Pro ** |
+|  **Network Analysis: Wireshark, Darktrace ** |
+|  **Endpoint Security: CrowdStrike, Microsoft Defender ** |
+|  **Data Management: SQL, NoSQL, ETL Processes ** |
+|  **Incident Response Certification ** |
+|  **SIEM Tools: Splunk, IBM QRadar ** |
 
 ---
 
