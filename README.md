@@ -34,108 +34,134 @@ My technical and theoretical expertise spans the following domains:
 
 ### Certifications
 
-🥇 Certifications, Training, & Tools
+Certifications, Training, & Tools
 My technical qualifications are organized below by type, including formal certifications, specialized vendor training, and proficiency with key security and data tools.
 
-Category/Status
+Type
 
-Achievement / Focus Area
+Status / Vendor
 
-Formal Certifications
+Item / Focus Area
 
-
+Formal Certification
 
 Completed
 
 AWS Certified ML – Specialty
 
+Formal Certification
+
 Completed
 
 Azure AI Engineer Associate
 
-Completed
-
-Linux Redhat Certified System Administration
+Formal Certification
 
 Completed
 
 Certified Ethical Hacker (CEH 11, EC-Council)
 
+Formal Certification
+
 Completed
 
 Incident Response Certification
+
+Formal Certification
 
 In Progress
 
 CISSP
 
+Formal Certification
+
 In Progress
 
 CompTIA Security+ (SY0-701)
 
-Vendor Training (Palo Alto Networks)
+Vendor Training
 
-
-
-Course Completion
+Palo Alto Networks
 
 Cybersecurity Foundation (Palo Alto Academy)
 
-Course Completion
+Vendor Training
+
+Palo Alto Networks
 
 Security Operations Fundamentals
 
-Course Completion
+Vendor Training
+
+Palo Alto Networks
 
 Prisma Access SASE Security: Design and Operation
 
-Course Completion
+Vendor Training
+
+Palo Alto Networks
 
 Cloud Security Fundamentals
 
-Course Completion
+Vendor Training
+
+Palo Alto Networks
 
 Introduction to Troubleshooting with Palo Alto Firewalls
 
-Course Completion
+Vendor Training
+
+Palo Alto Networks
 
 Palo Alto Firewalls 10.x - Install, Configure & Manage
 
-Security & Data Proficiency
+Specialized Training
 
+IBM / Udemy / Coursera
 
+Penetration Testing, Incident Response, and Forensics (IBM)
 
-SIEM / SOAR / XDR
+Specialized Training
+
+IBM / Udemy / Coursera
+
+Cybersecurity Threat Hunting for SOC Analysts (Udemy)
+
+Specialized Training
+
+IBM / Udemy / Coursera
+
+Azure Monitor and Microsoft Sentinel (Coursera/Advanced)
+
+Tool Proficiency
+
+SIEM / XDR / SOAR
 
 Splunk, IBM QRadar, Microsoft Sentinel, SOAR & XDR Tools
+
+Tool Proficiency
 
 Endpoint Security
 
 CrowdStrike, Microsoft Defender
 
+Tool Proficiency
+
 Network Analysis
 
 Wireshark, Darktrace
 
-Cloud Monitoring
-
-Azure Monitor and Microsoft Sentinel (Coursera/Advanced Course)
+Tool Proficiency
 
 System Administration
 
 Windows Server Administration, Linux Redhat Certified System Administration
 
+Tool Proficiency
+
 Data Management
 
 SQL, NoSQL, ETL Processes
-
-Specialized Course
-
-Cybersecurity Threat Hunting for SOC Analysts (Udemy)
-
-Specialized Course
-
-Penetration Testing, Incident Response, and Forensics (IBM)
 ---
 
 ## Key Research & Projects
