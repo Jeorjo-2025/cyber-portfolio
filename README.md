@@ -34,134 +34,32 @@ My technical and theoretical expertise spans the following domains:
 
 ### Certifications
 
-Certifications, Training, & Tools
+## Certifications, Training, & Tools
+
 My technical qualifications are organized below by type, including formal certifications, specialized vendor training, and proficiency with key security and data tools.
 
-Type
-
-Status / Vendor
-
-Item / Focus Area
-
-Formal Certification
-
-Completed
-
-AWS Certified ML – Specialty
-
-Formal Certification
-
-Completed
-
-Azure AI Engineer Associate
-
-Formal Certification
-
-Completed
-
-Certified Ethical Hacker (CEH 11, EC-Council)
-
-Formal Certification
-
-Completed
-
-Incident Response Certification
-
-Formal Certification
-
-In Progress
-
-CISSP
-
-Formal Certification
-
-In Progress
-
-CompTIA Security+ (SY0-701)
-
-Vendor Training
-
-Palo Alto Networks
-
-Cybersecurity Foundation (Palo Alto Academy)
-
-Vendor Training
-
-Palo Alto Networks
-
-Security Operations Fundamentals
-
-Vendor Training
-
-Palo Alto Networks
-
-Prisma Access SASE Security: Design and Operation
-
-Vendor Training
-
-Palo Alto Networks
-
-Cloud Security Fundamentals
-
-Vendor Training
-
-Palo Alto Networks
-
-Introduction to Troubleshooting with Palo Alto Firewalls
-
-Vendor Training
-
-Palo Alto Networks
-
-Palo Alto Firewalls 10.x - Install, Configure & Manage
-
-Specialized Training
-
-IBM / Udemy / Coursera
-
-Penetration Testing, Incident Response, and Forensics (IBM)
-
-Specialized Training
-
-IBM / Udemy / Coursera
-
-Cybersecurity Threat Hunting for SOC Analysts (Udemy)
-
-Specialized Training
-
-IBM / Udemy / Coursera
-
-Azure Monitor and Microsoft Sentinel (Coursera/Advanced)
-
-Tool Proficiency
-
-SIEM / XDR / SOAR
-
-Splunk, IBM QRadar, Microsoft Sentinel, SOAR & XDR Tools
-
-Tool Proficiency
-
-Endpoint Security
-
-CrowdStrike, Microsoft Defender
-
-Tool Proficiency
-
-Network Analysis
-
-Wireshark, Darktrace
-
-Tool Proficiency
-
-System Administration
-
-Windows Server Administration, Linux Redhat Certified System Administration
-
-Tool Proficiency
-
-Data Management
-
-SQL, NoSQL, ETL Processes
+| Type | Status / Vendor | Item / Focus Area |
+| :--- | :--- | :--- |
+| **Formal Certification** | Completed | AWS Certified ML – Specialty |
+| **Formal Certification** | Completed | Azure AI Engineer Associate |
+| **Formal Certification** | Completed | Certified Ethical Hacker (CEH 11, EC-Council) |
+| **Formal Certification** | Completed | Incident Response Certification |
+| **Formal Certification** | In Progress | CISSP |
+| **Formal Certification** | In Progress | CompTIA Security+ (SY0-701) |
+| **Vendor Training** | Palo Alto Networks Academy | Cybersecurity Foundation |
+| **Vendor Training** | Palo Alto Networks | Security Operations Fundamentals |
+| **Vendor Training** | Palo Alto Networks | Prisma Access SASE Security: Design and Operation |
+| **Vendor Training** | Palo Alto Networks | Cloud Security Fundamentals |
+| **Vendor Training** | Palo Alto Networks | Introduction to Troubleshooting with Palo Alto Firewalls |
+| **Vendor Training** | Palo Alto Networks | Palo Alto Firewalls 10.x - Install, Configure & Manage |
+| **Tool Proficiency** | Multiple Vendors | **SIEM / SOAR / XDR:** Splunk, IBM QRadar, Microsoft Sentinel, SOAR & XDR Tools |
+| **Tool Proficiency** | Multiple Vendors | **Endpoint Security:** CrowdStrike, Microsoft Defender |
+| **Tool Proficiency** | Multiple Vendors | **Network Analysis:** Wireshark, Darktrace |
+| **System/OS Skill** | Proficiency | Windows Server Administration, Linux Redhat Certified System Administration |
+| **Data Management** | Proficiency | **Data Management:** SQL, NoSQL, ETL Processes |
+| **Specialized Course** | Coursera/Advanced Course | Azure Monitor and Microsoft Sentinel |
+| **Specialized Course** | Udemy | Cybersecurity Threat Hunting for SOC Analysts |
+| **Specialized Course** | IBM | Penetration Testing, Incident Response, and Forensics |
 ---
 
 ## Key Research & Projects
