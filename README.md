@@ -34,33 +34,108 @@ My technical and theoretical expertise spans the following domains:
 
 ### Certifications
 
-| :--- | :--- |
-|  AWS Certified ML – Specialty |
-|  Completed Azure AI Engineer Associate |
-|  In Progress** | CISSP |
-|  In Progress** | CompTIA Security+ (SY0-701) |
-|  Palo Alto Networks Cybersecurity Foundation |
-|  Palo Alto Networks Security Operations Fundamentals |
-|  Prisma Access SASE Security: Design and Operation  |
-|  (Palo Alto Cybersecurity Academy) |
-|  Palo Alto Networks Cloud Security Fundamentals |
-|  SOAR and XDR Tools for Cyber Attack Response  |
-|  Introduction to Troubleshooting with Palo Alto Firewalls  |
-|  Palo Alto Firewalls 10.x - Install, Configure & Manage  |
-|  CompTIA Security+  |
-|  Windows Server Administration  |
-|  Linux Redhat Certified System Administration  |
-|  Certified Ethical Hacker (CEH 11, EC-Council)  |
-|  Cybersecurity Threat Hunting for SOC Analysts (Udemy)  |
-|  Penetration Testing, Incident Response, and Forensics (IBM)  |
-|  Azure Monitor and Microsoft Sentinel ,Coursera |
-|  Microsoft Sentinel Advanced Course: Secure Azure Like a Pro  |
-|  Network Analysis: Wireshark, Darktrace  |
-|  Endpoint Security: CrowdStrike, Microsoft Defender |
-|  Data Management: SQL, NoSQL, ETL Processes  |
-|  Incident Response Certification |
-|  SIEM Tools: Splunk, IBM QRadar |
+🥇 Certifications, Training, & Tools
+My technical qualifications are organized below by type, including formal certifications, specialized vendor training, and proficiency with key security and data tools.
 
+Category/Status
+
+Achievement / Focus Area
+
+Formal Certifications
+
+
+
+Completed
+
+AWS Certified ML – Specialty
+
+Completed
+
+Azure AI Engineer Associate
+
+Completed
+
+Linux Redhat Certified System Administration
+
+Completed
+
+Certified Ethical Hacker (CEH 11, EC-Council)
+
+Completed
+
+Incident Response Certification
+
+In Progress
+
+CISSP
+
+In Progress
+
+CompTIA Security+ (SY0-701)
+
+Vendor Training (Palo Alto Networks)
+
+
+
+Course Completion
+
+Cybersecurity Foundation (Palo Alto Academy)
+
+Course Completion
+
+Security Operations Fundamentals
+
+Course Completion
+
+Prisma Access SASE Security: Design and Operation
+
+Course Completion
+
+Cloud Security Fundamentals
+
+Course Completion
+
+Introduction to Troubleshooting with Palo Alto Firewalls
+
+Course Completion
+
+Palo Alto Firewalls 10.x - Install, Configure & Manage
+
+Security & Data Proficiency
+
+
+
+SIEM / SOAR / XDR
+
+Splunk, IBM QRadar, Microsoft Sentinel, SOAR & XDR Tools
+
+Endpoint Security
+
+CrowdStrike, Microsoft Defender
+
+Network Analysis
+
+Wireshark, Darktrace
+
+Cloud Monitoring
+
+Azure Monitor and Microsoft Sentinel (Coursera/Advanced Course)
+
+System Administration
+
+Windows Server Administration, Linux Redhat Certified System Administration
+
+Data Management
+
+SQL, NoSQL, ETL Processes
+
+Specialized Course
+
+Cybersecurity Threat Hunting for SOC Analysts (Udemy)
+
+Specialized Course
+
+Penetration Testing, Incident Response, and Forensics (IBM)
 ---
 
 ## Key Research & Projects
