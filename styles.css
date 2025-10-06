@@ -1,0 +1,72 @@
+/* ---------- Base / layout ---------- */
+:root{
+  --accent:#ff4b1f;
+  --accent2:#0b6cff;
+  --card: rgba(255,255,255,0.03);
+  --glass: rgba(255,255,255,0.04);
+  --max:1100px;
+  --text: #e8eef8;
+  --muted: #9aa6b2;
+  --radius:12px;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background:#000;color:var(--text);-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
+.background{
+  position:fixed;inset:0;background:linear-gradient(120deg,#050505,#0b0b0b 40%,#141414 100%);background-size:400% 400%;animation:grad 20s ease infinite;z-index:-1
+}
+@keyframes grad{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+/* ---------- Navbar ---------- */
+.navbar{position:fixed;top:0;left:0;right:0;height:64px;background:rgba(0,0,0,0.7);display:flex;align-items:center;z-index:20;backdrop-filter:blur(6px);box-shadow:0 6px 30px rgba(0,0,0,0.6)}
+.navbar ul{display:flex;gap:18px;list-style:none;margin:0 auto;padding:0}
+.navbar a{color:var(--text);text-decoration:none;font-weight:600;padding:10px 8px;border-radius:8px;transition:transform .18s ease,color .18s;}
+.navbar a:hover{color:var(--accent);transform:translateY(-3px) scale(1.03)}
+
+/* ---------- Header with left photo ---------- */
+.header-container{max-width:var(--max);margin:90px auto 20px;display:flex;gap:28px;padding:18px}
+.left-col{flex:0 0 220px}
+.right-col{flex:1}
+.profile-img{width:200px;height:200px;border-radius:14px;object-fit:cover;border:3px solid rgba(255,255,255,0.06);box-shadow:0 12px 40px rgba(0,0,0,0.6)}
+h1{font-size:2.6rem;margin:0 0 6px;font-weight:800}
+.meta{color:var(--muted);margin:6px 0}
+.summary-title{margin-top:10px;font-size:1.1rem;color:var(--accent2);letter-spacing:.6px}
+.summary{line-height:1.5;color:var(--text);margin-top:8px}
+
+/* ---------- Sections ---------- */
+.section{max-width:var(--max);margin:28px auto;padding:22px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:var(--radius);box-shadow:0 12px 30px rgba(0,0,0,0.6)}
+.section.large{padding:28px}
+.section h2{text-align:center;margin:0 0 16px;font-size:1.5rem}
+.period{color:var(--muted);font-size:.95rem;margin-top:4px}
+.skills-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.skills-grid div{background:var(--glass);padding:14px;border-radius:10px;color:var(--text);font-weight:600}
+
+/* ---------- tables & collapsible ---------- */
+.collapsible-menu{margin-top:12px}
+.collapsible-btn{width:100%;text-align:left;padding:12px;border-radius:10px;background:rgba(255,255,255,0.02);border:none;color:var(--text);font-weight:700;cursor:pointer;margin-bottom:8px}
+.content{display:none;padding:10px 0 18px}
+.content table{width:100%;border-collapse:collapse;background:transparent}
+.content th, .content td{padding:10px;border-bottom:1px solid rgba(255,255,255,0.03);text-align:left;color:var(--muted)}
+.content th{color:var(--text);font-weight:700}
+
+/* ---------- Contact Modal ---------- */
+.contact-modal{display:none;position:fixed;inset:0;background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.75));z-index:50;backdrop-filter:blur(4px);align-items:center;justify-content:center}
+.contact-content{background:#0b0b0b;padding:20px;border-radius:12px;width:92%;max-width:480px;box-shadow:0 30px 80px rgba(0,0,0,0.7)}
+.close-btn{position:absolute;right:22px;top:18px;font-size:26px;cursor:pointer;color:var(--muted)}
+.form-row{display:flex;gap:10px;margin-bottom:8px}
+input, textarea{width:100%;padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:var(--text)}
+button[type="submit"]{width:100%;padding:12px;border-radius:10px;border:none;background:linear-gradient(90deg,var(--accent),var(--accent2));color:#fff;font-weight:800;cursor:pointer;margin-top:8px}
+
+/* ---------- Footer ---------- */
+footer{text-align:center;padding:26px 6px;color:var(--muted);font-size:.95rem}
+
+/* ---------- Responsive ---------- */
+@media (max-width:900px){
+  .header-container{flex-direction:column;align-items:center;text-align:center}
+  .left-col{flex:0 0 auto}
+  .skills-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:520px){
+  .skills-grid{grid-template-columns:1fr}
+  .profile-img{width:140px;height:140px}
+  .navbar ul{gap:10px;padding:0 8px;overflow:auto}
+}
