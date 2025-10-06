@@ -36,7 +36,7 @@ My technical and theoretical expertise spans the following domains:
 
 | Status | Certification |
 | :--- | :--- |
-|  **Completed** | AWS Certified ML – Specialty |
+|  AWS Certified ML – Specialty |
 |  **Completed** | Azure AI Engineer Associate |
 |  **In Progress** | CISSP |
 |  **In Progress** | CompTIA Security+ (SY0-701) |
